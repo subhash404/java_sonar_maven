@@ -1,0 +1,6 @@
+projectKey=hello_java
+serverUrl=http://192.168.0.105:9000
+serverVersion=7.9.1.27448
+dashboardUrl=http://192.168.0.105:9000/dashboard?id=hello_java
+ceTaskId=AXMeHl9HGKFbWdDW8911
+ceTaskUrl=http://192.168.0.105:9000/api/ce/task?id=AXMeHl9HGKFbWdDW8911
